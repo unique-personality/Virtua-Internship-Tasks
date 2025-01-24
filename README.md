@@ -1,1 +1,1 @@
-# Virtua-Internship-Tasks
+# Virtual-Internship-Tasks
